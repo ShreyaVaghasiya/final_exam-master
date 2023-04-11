@@ -1,6 +1,10 @@
 # final_exam
 
-A new Flutter project.
+
+=> Based On 30 seconds timer display a out of stock label on a random products coming from sqlite db and after next 10 seconds if a user does not add that item in cart then reset that item quantity to zero in db.....
+
+
+
 
 ## Getting Started
 
